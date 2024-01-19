@@ -179,7 +179,7 @@ public class TextEditor implements ActionListener {
             }
 
         }
-        if(actionEvent.getSource()== newFile){
+        if( actionEvent.getSource()== newFile){
             TextEditor newTextEditor = new TextEditor();
         }
     }
